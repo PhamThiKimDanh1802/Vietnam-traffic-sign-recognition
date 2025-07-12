@@ -14,7 +14,9 @@ Hiệu lệnh (Mandatory signs)
 📁 Organized code for preprocessing, training, and inference.
 
 🔧 Technologies
-Python 3.x
+Python 3.10.0
 TensorFlow / Keras
 OpenCV
 NumPy, Matplotlib
+
+#DATA :  https://drive.google.com/drive/folders/1RLRSq72hey2wiTAq00DuPmtyF2NwgOTy?usp=sharing
